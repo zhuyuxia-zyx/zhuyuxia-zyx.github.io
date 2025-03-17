@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 朱雨夏
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: 雨夏
+last_name: 朱
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎣
 
 # Is this the primary user of the site?
 superuser: true
